@@ -103,7 +103,8 @@ h1 {
 	font-size: 80px;
 	display: inline-block;
 	text-align: center;
-	margin-left: 5%;
+	margin-left: 1%;
+	margin-right: 5%;
 }
 
 span {
@@ -115,7 +116,7 @@ span {
 	padding: 1%;
 	text-align: center;
 	margin-bottom: 1%;
-	margin-left: 24.5%;
+	margin-left: 20%;
 
 }
 
