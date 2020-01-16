@@ -64,3 +64,121 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+
+body {
+	width: 1250px;
+	margin: auto;
+}
+
+.nav {
+	display: block;
+	margin-left: 12.5%;
+}
+
+.nav nav{
+	display: inline;
+}
+
+.nav a {
+	display: inline-block;
+	margin: 3%;
+	color: grey;	
+	text-decoration: none;
+}
+
+.logo {
+	display: inline-block;
+	margin-left: 3%;
+	margin-top: 10%;
+	padding-top: 15%;
+}
+
+#top {
+	display: inline-block;
+	margin-left: 15%;
+}
+
+h1 {
+	font-size: 80px;
+	display: inline-block;
+	text-align: center;
+	margin-left: 1%;
+	margin-right: 5%;
+}
+
+span {
+	display: inline-block;
+	border: 1px solid black;
+	width: 170px;
+	border-spacing: 2px;
+	font-size: 12pt;
+	padding: 1%;
+	text-align: center;
+	margin-bottom: 1%;
+	margin-left: 20%;
+
+}
+
+#top div {
+	display: inline-block;
+	width: 10%;
+}
+
+#top img {
+	display: inline-block;
+	width: 35%;
+	margin-left: 5%;
+	margin-top: 5%;
+}
+
+hr {
+	margin-top: 5%;
+	border-top: 1px solid black;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+.section1{
+	display: block;
+	margin-left: 15%;
+	margin-top: 4%;
+}
+.section1 div {
+	display: inline-block;
+	width: 42%;
+}
+
+
+.middle-img {
+	display: block;
+	margin: 5% auto;
+}
+
+.three {
+	display: block;
+	margin: 0 auto;
+	margin-left: 15%;
+}
+
+.three div {
+	display: inline-block;
+	width: 27.35%;
+	margin-bottom: 1%;
+}
+
+address {
+	display: block;
+	width: 15%;
+	margin: 0 auto;
+	margin-left: 15%;
+	margin-bottom: 5%;
+	margin-top: 3%;
+	line-height: normal;
+}
+
+footer {
+	display: block;
+	text-align: center;
+	margin-bottom: 10%;
+}
